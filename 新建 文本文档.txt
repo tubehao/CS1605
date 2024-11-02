@@ -1,0 +1,12 @@
+多一个状态是否睡眠done
+多一个条件天气done
+pet顺序为{D,W,L,G,Q}done
+project1玩家主动换宠物有问题done
+use_skill 不应该在这写了done
+技能类型：done
+第一个为普通，后面两个与宠物相同
+需要处理死亡与被唤醒的关系done
+剩一个宠物选择2的情况done
+睡觉时发动技能仍会显示done
+重大更新：输出selectpet的时候输入顺序决定序号，貌似已经修复
+需要修复 死了之后不能发动技能done
